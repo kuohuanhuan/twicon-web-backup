@@ -6,7 +6,7 @@
 * @license - https://twicon.page/license/
 */
 @font-face {
-  font-family: 'taiwan icon';
+  font-family: twicon;
   font-weight: 400;
   font-style: Regular;
   src: url(twicon.woff2) format("woff2"),
@@ -14,7 +14,7 @@
 }
 [class*=" twicon-"],
 [class^="twicon-"] {
-  font-family: 'taiwan icon' !important !important;
+  font-family: twicon !important;
   speak: none;
   font-style: normal;
   font-weight: 400;
